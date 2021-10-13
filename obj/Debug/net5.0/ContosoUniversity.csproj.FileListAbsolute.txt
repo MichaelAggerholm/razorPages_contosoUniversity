@@ -144,3 +144,9 @@ C:\Users\Michael Aggerholm\source\repos\ContosoUniversity\bin\Debug\net5.0\runti
 C:\Users\Michael Aggerholm\source\repos\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Michael Aggerholm\source\repos\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Michael Aggerholm\source\repos\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Michael Aggerholm\source\repos\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Michael Aggerholm\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Create.cshtml.g.cs
+C:\Users\Michael Aggerholm\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Delete.cshtml.g.cs
+C:\Users\Michael Aggerholm\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Details.cshtml.g.cs
+C:\Users\Michael Aggerholm\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Edit.cshtml.g.cs
+C:\Users\Michael Aggerholm\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Index.cshtml.g.cs
