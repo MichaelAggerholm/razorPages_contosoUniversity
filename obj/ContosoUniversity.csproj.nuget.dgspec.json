@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michael Aggerholm\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Users\\92agg\\Source\\Repos\\MichaelAggerholm\\razorPages_contosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michael Aggerholm\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Users\\92agg\\Source\\Repos\\MichaelAggerholm\\razorPages_contosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michael Aggerholm\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\92agg\\Source\\Repos\\MichaelAggerholm\\razorPages_contosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\Michael Aggerholm\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\Michael Aggerholm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michael Aggerholm\\source\\repos\\ContosoUniversity\\obj\\",
+        "projectPath": "C:\\Users\\92agg\\Source\\Repos\\MichaelAggerholm\\razorPages_contosoUniversity\\ContosoUniversity.csproj",
+        "packagesPath": "C:\\Users\\92agg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\92agg\\Source\\Repos\\MichaelAggerholm\\razorPages_contosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Michael Aggerholm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\92agg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
